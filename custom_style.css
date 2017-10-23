@@ -1,0 +1,102 @@
+#header .logo a {
+    color: #fff;
+    font-family: 'Lucida Sans Unicode';
+    text-transform: none;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#sidebar h3 {
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Lucida Sans Unicode';
+    padding: 10px 15px;
+    text-align: center;
+    color: #000000;
+    letter-spacing: 1px;
+    border-bottom: 1px double;
+    margin-bottom: 3%;
+}
+
+#our-services .page-box .read-more {
+    background: #6D2028;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+
+a.r_button {
+    padding: 0.5em 2em;
+    color: #8a2432;
+}
+
+#our-services .page-box p {
+    font-size: 15px;
+    margin: 0 0 15px;
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#our-services .page-box p {
+    font-size: 13px;
+    margin: 0 0 15px;
+    color: black;
+    font-family:  'Lucida Sans Unicode';
+}
+
+#our-services .page-box h4 a {
+    font-weight: normal;
+    font-size: 35px;
+    font-family:  'Lucida Sans Unicode';
+    color: #000000;
+    letter-spacing: 1px;
+	font-weight: bold;
+}
+
+#our-services .page-box h4 {
+    color: #000000;
+    margin: 0 0 12px 0;
+    padding: 0 0 15px 0;
+    font-size: 0px;
+    border-bottom: 1px double #000000;
+}
+
+#our-services img {
+    width: 100%;
+    border-top: 5px solid #fff;
+}
+
+#sauna-footer {
+    background: #8a2432;
+}
+
+#sauna-footer h3{
+    text-align: left;
+    font-size: 2.1em;
+    margin: 0 0 24px 0;
+    border-bottom: 0px solid #8a2432;
+    padding: 0 0 10px 0;
+    font: 175% "Lucida Grande","Lucida Sans Unicode",Segoe\ UI,Helvetica,Arial,sans-serif;
+    letter-spacing: 2px;
+    color: #fff;
+}
+
+p {
+    margin: 0 0 15px;
+    padding: 0;
+	color: #000000;
+    font-size: 13px;
+    line-height: normal;
+    font-weight: normal;
+	font-family:  'Lucida Sans Unicode';
+}
+
+.copyright {
+    background: #8a2432;
+    padding: 3px 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-		serif;
+}
+
